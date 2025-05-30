@@ -8,6 +8,7 @@ using Serilog.Sinks.SystemConsole.Themes;
 using MovieStoreB.Controllers;
 using MovieStoreB.HealthChecks;
 using MovieStoreB.ServiceExtensions;
+//comment
 
 var builder = WebApplication.CreateBuilder(args);
 
